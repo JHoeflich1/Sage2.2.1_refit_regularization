@@ -1,0 +1,15 @@
+Thu Dec 12 19:36:33 MST 2024
+c3cpu-c15-u26-2.rc.int.colorado.edu
+1733  optimization records after LowestEnergyFilter
+1712  hessians after converting to basic dataset
+Converting Hessian-only dataset to records
+Matching extra Hessian records to Optimization records
+Number of Hessian records found on QCA: 899
+Number of records matched:    94
+Number of records filtered out:  805
+Hessian set written to: working-directory/hessian_set.json
+Found 1806 hessian calculations
+Found 1712 hessian molecules
+Found 127 errored calculations
+Errored dataset written to: working-directory/errored_dataset.json
+Thu Dec 12 19:46:49 MST 2024
